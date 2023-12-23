@@ -13,7 +13,7 @@
 		"进度条颜色": "#00000000",
 		"支持打开外部应用": true,
 		"提示打开外部应用": false,
-		"启动页面": "index.html"
+		"启动页面": "http://www.taojinwanjia.com/"
 	},
 	"indexPages": [
 		
